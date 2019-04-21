@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Zombsroyale.io Hacks Cheats Mods 2019 - Working - (sandbox-unblocked) by ioMods.org
-// @description  Zombsroyaleio Mods Features: Aimbot, Change Scope, Auto Heal, Fast Loot, Bunny Hop Created by ioMods.org
+// @name         Zombsroyale.io AIMBOT - Zombsroyaleio Hacks - Best Zombsroyale Cheat 2019
+// @description  Zombsroyaleio Mods Features: Aimbot, Change Scope, Auto Heal, Fast Loot, Bunny Hop
 // @namespace    iomods.org
 // @author       iomods.org
-// @version      1
+// @version      1.1
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
 // @updateURL    https://iomods.org/mods/zombsroyaleio.user.js
 // @downloadURL  https://iomods.org/mods/zombsroyaleio.user.js
